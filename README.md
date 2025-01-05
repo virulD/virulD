@@ -1,5 +1,5 @@
 <h1 align="center">Hi. I'm, Virul Akbo De Silva</h1>
-<h3 align="center">A passionate Full-Stack web developer from Sri Lanka</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer From Sri Lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
